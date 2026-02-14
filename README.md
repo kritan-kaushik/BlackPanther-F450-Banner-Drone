@@ -1,4 +1,5 @@
-# BlackPanther F450 Banner Towing UAV
+# Conceptual Design and Feasibility Analysis of a Banner Towing UAV (BlackPanther F450 Platform)
+
 
 > NOTE: This was a conceptual (on-paper) design project and was not physically built or flight-tested. The focus was on feasibility analysis and system-level UAV design.
 
