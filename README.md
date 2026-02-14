@@ -76,6 +76,32 @@ The BlackPanther F450 Banner Towing UAV is a low-speed advertising platform desi
 * Weak link and swivel assembly
 * A banner will be trailing, and as it trails, it will cause aerodynamic drag.
 
+**Performance Analysis**
+
+
+**Endurance vs Battery Capacity**
+
+An endurance sensitivity analysis has been performed to determine the effect of battery capacity on mission duration during banner towing.
+
+**Assumptions:**
+
+* Average propulsion power: 160 W
+
+* Battery fraction: 80% (safety reserve)
+
+* Flight condition: low-speed banner towing
+
+**4S LiPo Analysis**
+
+(insert 4S graph image here)
+
+**6S LiPo Analysis**
+
+(insert 6S graph image here)
+
+**Observations:**
+4S 1500–2200 mAh packs are sufficient for the 5-minute mission requirement with reserve.
+
 **Theoretical Calculations**
 
 Estimation calculations were carried out as per the following steps to ensure the feasibility of the project:
@@ -109,6 +135,7 @@ Estimation calculations were carried out as per the following steps to ensure th
   ~15-30 W
 
   **These calculations were used for the selection of the motor and the batteries.**
+
 
 **Safety and Compliance**
 
