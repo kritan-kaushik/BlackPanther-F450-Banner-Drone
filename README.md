@@ -133,13 +133,17 @@ Estimation calculations were carried out as per the following steps to ensure th
 
 **Team & My Role**
 
-* My contributions to the project:
-  Component Selection and System Configuration
-  Avionics Setup and ArduPilot Tuning
-  Theoretical Performance Calculations
-  Tow System Integration
+My contributions to the project:
+
+* Component Selection and System Configuration
+
+* Avionics Setup and ArduPilot Tuning
+
+* Theoretical Performance Calculations
+
+* Tow System Integration
 
 
-Tow attachment location significantly influences stability.
+**Tow attachment location significantly influences stability.**
 
 Low-speed flight requires different tuning compared to standard quadcopters.
