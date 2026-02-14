@@ -1,5 +1,5 @@
 # BlackPanther-F450-Banner-Drone
-The BlackPanther F450 Banner Towing UAV is a low-speed advertising platform designed to tow a lightweight banner while maintaining stability under high-drag payload conditions. The project focuses on aerodynamic stability, low-speed control optimization, and safe autonomous operation.
+The BlackPanther F450 Banner Towing UAV is a low-speed advertising platform designed to tow a lightweight banner while maintaining stability under high-drag payload conditions. The project focuses on aerodynamic stability, low-speed control optimization, and safe autonomous operation.This was a conceptual/on-paper design project and was not physically built or flight-tested. The focus was on feasibility analysis and system design.
 
 **Project Objectives**
 
@@ -8,6 +8,17 @@ The BlackPanther F450 Banner Towing UAV is a low-speed advertising platform desi
 * To keep the UAV stable in spite of the aerodynamic drag and dynamic effect of the payload
 * To perform repeat missions between A and B autonomously
 * To include safety features in the UAV, especially for demo purposes
+
+
+**Key Engineering Learnings**
+
+* The effect of banner drag on endurance is considerable even at low speeds
+
+* The thrust margin is a critical parameter for high-drag payload missions
+
+* Tow line damping reduces oscillatory instability
+
+* Mission planning must include battery reserve margins
 
 **System Architecture**
 
